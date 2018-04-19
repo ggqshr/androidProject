@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RestaurantFin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="usernum">账号：</string>
+    <string name="pwd">密码：</string>
+    <string name="agpwd">再次输入：</string>
+    <string name="username">姓名：</string>
+    <string name="sex">性别：</string>
+    <string name="phone">电话：</string>
+</resources>

@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="1000dp"
+    android:background="#ffffff"
+    tools:context="com.example.ggq.restaurantfin.FragmentBag.UserFragment">
+
+    <RelativeLayout
+        android:id="@+id/aaa"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#E3472E">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_head_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="40dp"
+            android:src="@mipmap/userhead" />
+
+        <TextView
+            android:id="@+id/user_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="40dp"
+            android:text="请登录"
+            android:layout_toRightOf="@+id/user_head_image"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/user_business"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/aaa"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true">
+
+        <TextView
+            android:id="@+id/user_business_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:text="历史订单"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/come_to_business" />
+    </RelativeLayout>
+
+</RelativeLayout>

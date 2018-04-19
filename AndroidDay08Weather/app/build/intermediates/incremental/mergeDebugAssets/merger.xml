@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android test project\AndroidDay08Weather\app\src\main\assets"><file name="city_code.xml" path="D:\android test project\AndroidDay08Weather\app\src\main\assets\city_code.xml"/></source><source path="D:\android test project\AndroidDay08Weather\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\android test project\AndroidDay08Weather\app\src\debug\assets"/></dataSet></merger>

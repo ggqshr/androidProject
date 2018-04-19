@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NoActionBar">
+    <item name="android:windowBackground">@color/white</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowActionModeOverlay">true</item>
+    <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    <item name="android:windowNoTitle">true</item>
+
+    <item name="android:windowContentOverlay">@null</item>
+
+    <item name="android:actionBarSize">48dip</item>
+
+    <item name="android:statusBarColor">@android:color/transparent</item>
+
+    <item name="android:colorPrimary">@android:color/transparent</item>
+
+    <item name="android:colorPrimaryDark">@android:color/white</item>
+
+    <item name="android:colorControlHighlight">@android:color/white</item>
+
+    <item name="android:actionMenuTextColor">@android:color/white</item>
+    </style>
+</resources>

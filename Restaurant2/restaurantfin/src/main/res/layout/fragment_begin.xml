@@ -1,0 +1,9 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/Begin_Backgrount"
+    android:background="#0e1ed2"
+    android:theme="@style/AppTheme.NotitleAndFull"
+    tools:context="com.example.ggq.restaurantfin.FragmentBag.BeginFragment">
+</FrameLayout>

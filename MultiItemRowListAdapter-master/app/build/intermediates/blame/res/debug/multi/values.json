@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 38,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 45,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\integers.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 52,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 52,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 65,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 65,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 52,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 52,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "D:\\android test project\\MultiItemRowListAdapter-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 709
+                    }
+                }
+            }
+        ]
+    }
+]

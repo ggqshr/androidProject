@@ -1,0 +1,143 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4f4f4f"
+    tools:context="com.example.ggq.restaurantfin.FragmentBag.MenuFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/item_imag"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="20dp"
+            android:onClick="initMenu"
+            android:src="@mipmap/userhead" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_imag"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:onClick="initMenu"
+            android:text="请登录"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+
+    </RelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="200dp"
+        android:orientation="vertical">
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/key_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:onClick="initMenu"
+                android:src="@mipmap/key" />
+
+            <TextView
+                android:id="@+id/key_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:onClick="initMenu"
+                android:text="修改密码"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/ifm_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:onClick="initMenu"
+                android:src="@mipmap/ifm" />
+
+            <TextView
+                android:id="@+id/ifm_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:onClick="initMenu"
+                android:text="关于应用"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/loginout_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:onClick="initMenu"
+                android:src="@mipmap/loginout" />
+
+            <TextView
+                android:id="@+id/loginout_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:onClick="initMenu"
+                android:text="退出登陆"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/power_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:onClick="initMenu"
+                android:src="@mipmap/poweroff" />
+
+            <TextView
+                android:id="@+id/power_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:onClick="initMenu"
+                android:text="退出"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>

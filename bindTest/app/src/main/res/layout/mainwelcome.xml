@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:theme="@style/AppTheme.Notitle"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    tools:context="com.example.ggq.bindtest.MainWelcome">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout">
+        <ImageButton
+            android:layout_width="50sp"
+            android:layout_height="50sp"
+            android:id="@+id/imagebutton"
+            android:background="@mipmap/user"/>
+    </LinearLayout>
+
+    <FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@+id/linearLayout"
+        android:layout_marginBottom="58sp"
+    android:layout_alignParentStart="true"
+        android:id="@+id/change"
+    ></FrameLayout>
+    <LinearLayout
+
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="58sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:background="#000"
+        android:orientation="horizontal">
+
+        <LinearLayout
+
+            android:layout_width="95sp"
+            android:layout_height="59dp"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/main"
+                android:layout_width="38sp"
+                android:layout_height="35sp"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:background="@drawable/main"
+                android:onClick="onLine"
+                 />
+
+            <TextView
+                android:layout_width="50sp"
+                android:layout_height="15sp"
+                android:layout_gravity="center"
+                android:text="主界面"
+                android:textAlignment="center"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="95sp"
+            android:layout_height="58sp"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/business"
+                android:layout_width="38sp"
+                android:layout_height="35sp"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:background="#000000"
+                android:onClick="onLine"
+                android:src="@mipmap/wendang" />
+
+            <TextView
+                android:layout_width="30sp"
+                android:layout_height="15sp"
+                android:layout_gravity="center"
+                android:text="订单"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="95sp"
+            android:layout_height="58sp"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/user"
+                android:layout_width="38sp"
+                android:layout_height="35sp"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:background="@drawable/user"
+                android:onClick="onLine" />
+
+            <TextView
+                android:layout_width="50sp"
+                android:layout_height="15sp"
+                android:layout_gravity="center"
+                android:text="用户"
+                android:textAlignment="center"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="95sp"
+            android:layout_height="58sp"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/other"
+                android:layout_width="38sp"
+                android:layout_height="35sp"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:background="#000000"
+                android:onClick="onLine"
+                android:src="@mipmap/house" />
+
+            <TextView
+                android:layout_width="50sp"
+                android:layout_height="15sp"
+                android:layout_gravity="center"
+                android:text="主界面"
+                android:textAlignment="center"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

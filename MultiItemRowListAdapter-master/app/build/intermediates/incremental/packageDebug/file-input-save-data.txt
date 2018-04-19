@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed May 03 20:29:51 CST 2017
+2.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\demo.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\list_selector.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_demo.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+8.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\include_list_item_contact.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\android test project\\MultiItemRowListAdapter-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\above_shadow.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

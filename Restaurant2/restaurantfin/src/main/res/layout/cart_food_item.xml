@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="food"
+            type="com.example.ggq.restaurantfin.entity.Food" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/cart_food_photo"
+                android:layout_width="80sp"
+                android:layout_height="80sp"
+                android:layout_marginLeft="10dp" />
+
+            <TextView
+                android:id="@+id/cart_food_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/cart_food_photo"
+                android:text="@{food.foodName}"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/sbbb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/cart_food_name"
+                android:layout_below="@+id/cart_food_name"
+                android:layout_marginTop="10dp"
+                android:text="￥"
+                android:textColor="#ff0000" />
+
+            <TextView
+                android:id="@+id/cart_food_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cart_food_name"
+                android:layout_marginTop="7dp"
+                android:layout_toRightOf="@+id/sbbb"
+                android:text="@{String.valueOf(food.foodPrice)}"
+                android:textColor="#ff0000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/cart_food_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cart_food_name"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="6dp"
+                android:layout_toRightOf="@+id/cart_food_price"
+                android:text="@{String.valueOf(food.foodNum)}"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/cart_food_add"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_below="@+id/cart_food_name"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/cart_food_num"
+                android:text="+" />
+
+            <Button
+                android:id="@+id/cart_food_down"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_below="@+id/cart_food_name"
+                android:layout_marginLeft="4dp"
+                android:layout_toRightOf="@+id/cart_food_add"
+                android:text="-" />
+
+            <Button
+                android:id="@+id/cart_food_delete"
+                android:layout_width="60dp"
+                android:layout_height="45dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="删除" />
+        </RelativeLayout>
+    </LinearLayout>
+</layout>

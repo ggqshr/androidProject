@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android test project\AndroidDay08Weather\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_ae51cd7271d68d7414781f62c530907cb861ea23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android test project\AndroidDay08Weather\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="128ce4ceb647425acea04b65ee259fe015a4f78a">
+        <dex dex="D:\android test project\AndroidDay08Weather\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_44c418757d7f2bf35818f60ee175063b1de91291.jar" />
+    </item>
+
+</items>

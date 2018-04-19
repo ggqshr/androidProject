@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.ggq.restaurantfin.View.SlideView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/id_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <include layout="@layout/fragment_menu" />
+
+        <FrameLayout xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/change_all"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#E3472E"
+            android:clipToPadding="true"
+            android:fitsSystemWindows="true"
+            tools:context="com.example.ggq.restaurantfin.MainActivity">
+
+            <FrameLayout
+                android:id="@+id/TitleF"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp" />
+            >
+
+            <FrameLayout
+                android:id="@+id/contentF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="65dp"
+                android:layout_marginTop="50dp" />
+
+            <FrameLayout
+                android:id="@+id/BottomF"
+                android:layout_width="fill_parent"
+                android:layout_height="65dp"
+                android:layout_gravity="bottom" />
+
+        </FrameLayout>
+    </LinearLayout>
+</com.example.ggq.restaurantfin.View.SlideView>

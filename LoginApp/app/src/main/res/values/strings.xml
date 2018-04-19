@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="login">登陆</string>
+    <string name="return1">返回</string>
+    <string name="sign">注册</string>
+    <string name="name">账号</string>
+    <string name="pwd">密码</string>
+</resources>

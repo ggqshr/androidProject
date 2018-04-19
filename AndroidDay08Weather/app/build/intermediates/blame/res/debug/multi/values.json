@@ -1,0 +1,372 @@
+[
+    {
+        "outputFile": "D:\\android test project\\AndroidDay08Weather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 37,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 37,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 37,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 37,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 37,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 37,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 37,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 37,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 37,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 37,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 37,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 57,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 55,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 52,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 56,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 52,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 52,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 33,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 33,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 33,
+                    "endOffset": 623
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 33,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 628,
+                    "endColumn": 34,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 307,
+                        "endColumn": 31,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 34,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 339,
+                        "endColumn": 31,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 34,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 371,
+                        "endColumn": 31,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 34,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 403,
+                        "endColumn": 31,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "D:\\android test project\\AndroidDay08Weather\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

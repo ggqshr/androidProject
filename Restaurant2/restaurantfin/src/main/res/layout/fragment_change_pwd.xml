@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.example.ggq.restaurantfin.FragmentBag.ChangePwdFragment">
+
+    <TextView
+        android:id="@+id/cp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="修改密码"
+        android:textSize="25sp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/cp">
+
+        <TableRow>
+
+            <TextView
+                android:text="请输入旧密码："
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/oldpwd"
+                android:ems="10"
+                android:inputType="numberPassword" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:text="请输入新密码："
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/newpwd"
+                android:ems="10"
+                android:inputType="numberPassword" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:text="请再次输入新密码："
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/newpwdag"
+                android:ems="10"
+                android:inputType="numberPassword" />
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/subpass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="提交"
+        android:textSize="20sp" />
+</RelativeLayout>

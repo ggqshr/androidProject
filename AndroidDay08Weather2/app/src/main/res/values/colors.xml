@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 线条色值 -->
+    <color name="pm1">#6BCD07</color>
+    <color name="pm2">#FBD029</color>
+    <color name="pm3">#FE8800</color>
+    <color name="pm4">#FE0000</color>
+    <color name="pm5">#CC0001</color>
+    <color name="pm6">#970454</color>
+</resources>

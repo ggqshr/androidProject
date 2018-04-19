@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDay08Weather</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- 天气质量 -->
+    <string name="pm1">优</string>
+    <string name="pm2">良</string>
+	<string name="pm3">轻度</string>
+	<string name="pm4">中度</string>
+	<string name="pm5">重度</string>
+	<string name="pm6">严重</string>
+	
+</resources>

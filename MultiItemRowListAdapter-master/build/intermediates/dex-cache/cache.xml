@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android test project\MultiItemRowListAdapter-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_da7f6d4a2578328f7d18a9b32b1daa8a6a532adf.jar" />
+    </item>
+
+</items>

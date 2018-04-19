@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MysqlFarCon</string>
+    <string name="connection">连接</string>
+</resources>
